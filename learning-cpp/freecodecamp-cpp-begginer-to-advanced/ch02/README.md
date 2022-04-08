@@ -44,7 +44,9 @@ see [statement.cpp](./statements/statement.cpp)
 sum function which adds the 2 inputs and gives an sum output:
 
 first number ->
+
                     [function] -> sum 
+                    
 second number ->
 
 see [sumfunction.cpp](./function/sumfunction.cpp)
@@ -57,3 +59,6 @@ int addNumbers(int a, int b) {
     return sum;
 }
 ```
+
+
+
