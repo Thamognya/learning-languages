@@ -62,5 +62,18 @@ int addNumbers(int a, int b) {
 }
 ```
 
+int is the return type
 
+addNumbers is the function name
+
+int a, int b are the parameters
+
+then curly braces, and inside it the function body
+
+int sum is the function command
+
+and return sum, returns the sum
+
+
+- a function must defined before it is use
 
